@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,php,laravel**
 
-- 👨‍💻 All of my projects are available at [www.harishpandey.com.np](www.harishpandey.com.np)
+- 👨‍💻 All of my projects are available at [www.harishpandey.com.np](https://harishpandey.com.np/)
 
 - 📫 How to reach me **pandeyharish394@gmail.com**
 
