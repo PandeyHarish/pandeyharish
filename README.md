@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandeyharish" alt="pandeyharish" /></a> </p>
 
-- 🔭 I’m currently working on **Book Site**
+- 🔭 I’m currently working on **Newsapp**
 
-- 🌱 I’m currently learning **React,php,laravel**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [www.harishpandey.com.np](https://harishpandey.com.np/)
 
