@@ -6,9 +6,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pandeyharish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on **Blogapp**
+- 🔭 I’m currently working on **GIEC**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [www.harishpandey.com.np](https://harishpandey.com.np/)
 
