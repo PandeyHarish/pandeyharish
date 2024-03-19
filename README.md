@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harish Pandey</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeyharish&label=Profile%20views&color=0e75b6&style=flat" alt="pandeyharish" /> </p>
+[![](https://visitcount.itsvg.in/api?id=pandeyharish&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandeyharish" alt="pandeyharish" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pandeyharish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 - 🔭 I’m currently working on **Blogapp**
 
@@ -29,13 +30,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pandeyharish&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyharish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pandeyharish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pandeyharish&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pandeyharish&icon=2&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
