@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pandeyharish394@gmail.com**
 
-- 📄 Know about my experiences [https://harishpandey.com.np/assets/pdf/CV.pdf](https://harishpandey.com.np/assets/pdf/CV.pdf)
+- 📄 Know about my experiences [https://harishpandey.com.np/assets/pdf/CV.pdf](https://harishpandey.com.np/assets/pdf/resumegenerated.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
